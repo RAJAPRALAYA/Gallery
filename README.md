@@ -208,6 +208,8 @@ country.html
  
 ```
 # OUTPUT:
-![alt text](s1-2.png)
+![alt text](s1-1.png)
+![alt text](s2-1.png)
+![alt text](s3-1.png)
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
